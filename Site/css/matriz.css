@@ -1,0 +1,24 @@
+body{margin:0; font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif; background-color:#ACACAC;}
+#menu{padding:10px;}
+ul li{display: inline;}
+h2{font-size:32px; color:#648F34;}
+h3{font-size:25px; color:#648F34;}
+a:link {font-size:20px; text-decoration:none; color:#648F34;}
+a:hover {text-decoration:underline;}
+a:visited{color:#648F34;text-decoration:underline;}
+a:active{color:#648F34;text-decoration:underline;}
+.txt {padding:15px;}
+p{font-size:18px; color:#4B4B4B;}
+#background{width:90%; margin-left:5%; margin-right:5%; background-color:#FFF;}
+.foto{float:left; margin-top:20px; margin-left:10px;}
+.texto_foto{width:570px; float:right; font-size:16px; color:#648F34;}
+.espaco{height:300px; clear:both;}
+.espaco_peq{height:10px; clear:both;}
+#rodape{background-color:#424242; height:100px;}
+#logo_rodape{padding:10px; float:left; margin-left:30px;}
+#txt_rodape{float:right; margin-right:30px;}
+link_rodape{display: none;}
+.link_rodape a:link{color:#FFFAFA; font-size:12px;}
+.link_rodape a:hover {text-decoration:underline; color:#FFF; font-size:12px;}
+.link_rodape a:visited{color:#FFF;text-decoration:underline; font-size:12px;}
+.link_rodape a:active{color:#FFF;text-decoration:underline; font-size:12px;}
